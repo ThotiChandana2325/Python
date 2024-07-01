@@ -1,2 +1,2 @@
 # Python
-Jupiter Notebook
+🟠 Jupiter Notebook
